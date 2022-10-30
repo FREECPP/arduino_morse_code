@@ -49,17 +49,13 @@
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
-      "args": [
-        ""
-      ],
+      "args": [],
       "stopAtEntry": false,
-      "cwd": "c:/Users/Jan/Dropbox/_Coding/UdemyCpp/01_Basics/Test",
-      "environment": [],
-      "program": "c:/Users/Jan/Dropbox/_Coding/UdemyCpp/01_Basics/Test/build/Debug/outDebug",
-      "internalConsoleOptions": "openOnSessionStart",
+      "externalConsole": true,
+      "cwd": "c:/Users/Felix/arduino_morse_code/arduino_morse_code/testing",
+      "program": "c:/Users/Felix/arduino_morse_code/arduino_morse_code/testing/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
-      "externalConsole": true,
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
